@@ -1,0 +1,29 @@
+---
+:runtime:
+- org.eclipse.jetty:jetty-xml:jar:9.4.44.v20210927
+- io.javalin:javalin:jar:4.1.1
+- org.eclipse.jetty:jetty-server:jar:9.4.44.v20210927
+- org.eclipse.jetty.websocket:websocket-servlet:jar:9.4.44.v20210927
+- org.eclipse.jetty:jetty-servlet:jar:9.4.44.v20210927
+- org.eclipse.jetty:jetty-client:jar:9.4.44.v20210927
+- org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.5.31
+- com.fasterxml.jackson.core:jackson-databind:jar:2.12.4
+- org.eclipse.jetty:jetty-webapp:jar:9.4.44.v20210927
+- org.eclipse.jetty:jetty-io:jar:9.4.44.v20210927
+- org.slf4j:slf4j-api:jar:1.7.31
+- org.eclipse.jetty:jetty-util-ajax:jar:9.4.44.v20210927
+- org.eclipse.jetty.websocket:websocket-server:jar:9.4.44.v20210927
+- org.eclipse.jetty.websocket:websocket-common:jar:9.4.44.v20210927
+- org.slf4j:slf4j-simple:jar:1.7.32
+- org.jetbrains.kotlin:kotlin-stdlib-jdk7:jar:1.5.31
+- javax.servlet:javax.servlet-api:jar:3.1.0
+- org.eclipse.jetty:jetty-util:jar:9.4.44.v20210927
+- org.eclipse.jetty.websocket:websocket-api:jar:9.4.44.v20210927
+- com.fasterxml.jackson.core:jackson-annotations:jar:2.12.4
+- org.eclipse.jetty:jetty-http:jar:9.4.44.v20210927
+- org.eclipse.jetty:jetty-security:jar:9.4.44.v20210927
+- org.eclipse.jetty.websocket:websocket-client:jar:9.4.44.v20210927
+- org.jetbrains.kotlin:kotlin-stdlib-common:jar:1.5.31
+- com.fasterxml.jackson.core:jackson-core:jar:2.12.4
+- org.jetbrains.kotlin:kotlin-stdlib:jar:1.5.31
+- org.jetbrains:annotations:jar:13.0
