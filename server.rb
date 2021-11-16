@@ -1,7 +1,7 @@
 require 'java' 
 require 'jruby/core_ext'
 require 'bundler/setup' 
-Bundler.require
+require 'jbundler'
 
 java_import 'io.javalin.Javalin'
 
